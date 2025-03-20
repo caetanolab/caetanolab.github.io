@@ -5,6 +5,6 @@ params:
     headless: true
 ---
 
-<strong class="section-title">Foxx Edelweiss <i class="icon copyleft"></i> 2025</strong>
+<strong class="section-title">Arthur Caetano <i class="icon copyleft"></i> 2025</strong>
 
-Some rights reserved.
+[hugo-brewm theme by foxihd](https://github.com/foxihd/hugo-brewm)
