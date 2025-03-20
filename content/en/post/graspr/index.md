@@ -1,6 +1,7 @@
 ---
 title: "GrasPR"
 date: 2025-03-19
+author: ['Arthur Caetano', 'Yunhao Luo', 'Misha Sra']
 description: "User Preference Model for Grasp-based Interfaces"
 draft: false
 type: "post"

@@ -6,7 +6,7 @@ cover: 'cover.png'
 description: "Kinematic Simulation for Grasp-Based UI Design"
 draft: false
 type: "post"
-tags: ["grasp", "simulation", "xr", "DIS"]
+tags: ["grasp", "simulation", "xr", "dis"]
 categories: ["Conference Paper"]
 translationKey: 'media'
 ---

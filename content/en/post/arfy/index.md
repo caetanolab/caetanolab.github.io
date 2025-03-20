@@ -1,12 +1,12 @@
 ---
 title: "ARfy"
 date: 2022-10-29
-author: ['Arthur Caetano*', 'Misha Sra']
+author: ['Arthur Caetano', 'Misha Sra']
 cover: 'cover.png'
 description: "Geometric Alignment of 3D Scenes to Augmented Reality"
 draft: false
 type: "post"
-tags: ["Adaptive", "AR", "UIST"]
+tags: ["adaptive", "ar", "uist"]
 categories: ["Conference Poster"]
 translationKey: 'media'
 ---

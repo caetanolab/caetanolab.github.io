@@ -6,7 +6,7 @@ cover: 'cover.png'
 description: 'Language Learning with Outdoor AR'
 draft: false
 type: 'post'
-tags: ['Outdoor', 'Learning', 'AR', 'DIS']
+tags: ['outdoors', 'learning', 'ar', 'dis']
 categories: ['Conference Paper']
 translationKey: 'media'
 ---
