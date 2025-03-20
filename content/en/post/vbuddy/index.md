@@ -6,7 +6,7 @@ cover: 'cover.png'
 description: 'Conversational Interface for Users with Hand Motor Disability'
 draft: false
 type: 'post'
-tags: ['co-design', 'Conversational AI', 'accessibility', 'UIST']
+tags: ['co-design', 'Conversational AI', 'accessibility', 'agents', 'uist']
 categories: ['Conference Poster']
 translationKey: 'media'
 ---

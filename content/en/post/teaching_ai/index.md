@@ -6,7 +6,7 @@ cover: 'cover.png'
 description: 'Mentoring High School Students'
 draft: false
 type: 'post'
-tags: ['teaching', 'ai']
+tags: ['teaching']
 categories: ['Conference Paper']
 translationKey: 'media'
 ---

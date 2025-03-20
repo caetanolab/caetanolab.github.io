@@ -2,7 +2,6 @@
 title: 'ModBand'
 date: 2023-10-29
 author: ['Avinash Ajit Nargund', 'Alejandro Aponte', 'Arthur Caetano', 'Misha Sra']
-#cover: 'cover.png'
 description: 'Egocentric Multimodal Sensing'
 draft: false
 type: 'post'
