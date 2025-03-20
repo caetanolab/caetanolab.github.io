@@ -1,29 +1,8 @@
 [[main]]
-  name       = 'Blog'
-  identifier = 'series'
-  pageRef    = '/series'
-  weight     = 1
-
-  [[main]]
-    name       = 'Post 1'
-    identifier = 'series1'
-    pageRef    = '/'
-    parent     = 'series'
-    Post       = 'Example with post/description'
-
-[[main]]
-  name       = 'Projects'
-  identifier = 'works'
+  name       = 'Home'
+  identifier = 'home'
   pageRef    = '/'
-  weight     = 2
-
-  [[main]]
-    name       = 'Commission'
-    identifier = 'commission'
-    pageRef    = '/'
-    parent     = 'works'
-    Post       = 'Example Menu'
-    weight     = 1
+  weight     = 1
 
 [[main]]
   identifier = 'GitHub'
