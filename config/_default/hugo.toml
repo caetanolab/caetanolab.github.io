@@ -1,7 +1,7 @@
 ## Base URL for the site
 baseURL = 'https://caetanolab.github.io/hugo-brewm'
 ## Site title
-title = 'Example'
+title = 'Arthur Caetano | Portfolio'
 ## Use hugo-brewm theme
 theme = 'hugo-brewm'
 ## Enable Git information for pages, (e.g. lastMod date information)
