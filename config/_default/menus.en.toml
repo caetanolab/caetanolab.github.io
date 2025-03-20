@@ -1,0 +1,57 @@
+[[main]]
+  name       = 'Blog'
+  identifier = 'series'
+  pageRef    = '/series'
+  weight     = 1
+
+  [[main]]
+    name       = 'Post 1'
+    identifier = 'series1'
+    pageRef    = '/'
+    parent     = 'series'
+    Post       = 'Example with post/description'
+
+[[main]]
+  name       = 'Projects'
+  identifier = 'works'
+  pageRef    = '/'
+  weight     = 2
+
+  [[main]]
+    name       = 'Commission'
+    identifier = 'commission'
+    pageRef    = '/'
+    parent     = 'works'
+    Post       = 'Example Menu'
+    weight     = 1
+
+[[main]]
+  identifier = 'GitHub'
+  url        = 'https://github.com/caetanolab'
+  pre        = 'github'
+
+[[main]]
+  identifier = 'LinkedIn'
+  url        = 'https://www.linkedin.com/in/arthurpitzer/'
+  pre        = 'linkedin'
+
+[[main]]
+  identifier = 'Google Scholar'
+  url        = 'https://scholar.google.com/citations?user=RGuOToYAAAAJ&hl=en'
+  pre        = 'googlescholar'
+
+[[main]]
+  identifier = 'E-mail'
+  url        = 'mailto://caetano@ucsb.edu'
+  pre        = 'email'
+
+[[main]]
+  name       = 'CV'
+  identifier = 'cv'
+  url        = 'https://docs.google.com/document/d/1rJ91qO6sm0OwHKXiKDeucxGdzAoAPotLCBSLroeJ0bQ/edit?tab=t.0'
+  pre        = 'cv'
+
+[[main]]
+  identifier = 'ORCID'
+  url        = 'https://orcid.org/0000-0003-0207-5471'
+  pre        = 'orcid'
