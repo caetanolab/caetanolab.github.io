@@ -3,7 +3,7 @@ cover: 'profile.jpg'
 ---
 
 ## Arthur Caetano
-_PhD Candidate [@UCSB/HAX](https://sites.cs.ucsb.edu/~sra/index.html)_
+_PhD Candidate [@UCSB/HAX Lab](https://sites.cs.ucsb.edu/~sra/index.html)_
 ##### Personal XR and AI
 ------------
 XR and AI can transform one-size-fits-all solutions into personalized experiences that adapt to your body, environment, and individual needs. The shift from mass-produced to custom-made solutions raises critical questions:
