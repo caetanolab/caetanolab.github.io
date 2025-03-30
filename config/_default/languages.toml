@@ -6,7 +6,7 @@
     languageName = 'English'
     [en.pagination]
         disableAliases = false
-        pagerSize = 12
+        pagerSize = 100
         path = 'page'
     [en.taxonomies]
         author = 'author'
@@ -22,7 +22,7 @@
     languageName = 'Bahasa Indonesia'
     [id.pagination]
         disableAliases = false
-        pagerSize = 12
+        pagerSize = 100
         path = 'laman'
     [id.params.feed]
         flowlines = false
