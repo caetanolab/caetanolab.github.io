@@ -6,7 +6,7 @@ cover: 'cover.png'
 description: 'VR Walking for a Lifelong-Wheelchair User'
 draft: false
 type: 'post'
-tags: ['co-design', 'VR', 'accessibility', 'IEEE VR']
+tags: ['co-design', 'vr', 'accessibility', 'IEEE VR']
 categories: ['Conference Paper']
 translationKey: 'media'
 ---

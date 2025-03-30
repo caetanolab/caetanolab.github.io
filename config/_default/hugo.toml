@@ -164,7 +164,7 @@ copyright = 'Copyright 2025 (c) Foxxi'
         colophon = false
         ## disable redaction history
         disableHistory = false
-        ## SHow related content
+        ## Show related content
         related = false
         ## Show share buttons
         share = false
