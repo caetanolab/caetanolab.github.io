@@ -11,4 +11,4 @@ translationKey: 'media'
 ---
 
 <img src="canvas.png" width="100%">
-<iframe  src="https://arxiv.org/html/2412.16892" width="100%" height="1200px"></iframe>
+<iframe  src="https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1536393/full" width="100%" height="1200px"></iframe>
