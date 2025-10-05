@@ -6,7 +6,7 @@ cover: 'cover.png'
 description: "Geometric Alignment of 3D Scenes to Augmented Reality"
 draft: false
 type: "post"
-tags: ["adaptive", "ar", "uist"]
+tags: ["adaptive", "ar", 'toolkit', "uist"]
 categories: ["Conference Poster"]
 translationKey: 'media'
 ---

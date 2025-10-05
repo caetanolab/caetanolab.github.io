@@ -5,7 +5,7 @@ description: 'Design Toolkit for Task Support in Mixed Reality'
 author: ['Arthur Caetano', 'Alejandro Aponte', 'Misha Sra']
 draft: false
 type: 'post'
-tags: ['prototyping', 'design patterns', 'canvas', 'task support', 'mr', 'xr', 'frontiers in VR']
+tags: ['prototyping', 'design patterns', 'toolkit', 'task support', 'mr', 'xr', 'frontiers in VR']
 categories: ['Journal Paper']
 translationKey: 'media'
 ---

@@ -5,7 +5,7 @@ author: ['Avinash Ajit Nargund', 'Alejandro Aponte', 'Arthur Caetano', 'Misha Sr
 description: 'Egocentric Multimodal Sensing'
 draft: false
 type: 'post'
-tags: ['sensing', 'task support', 'uist']
+tags: ['sensing', 'toolkit', 'task support', 'uist']
 categories: ['Conference Poster']
 translationKey: 'media'
 ---
