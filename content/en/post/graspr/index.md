@@ -5,7 +5,7 @@ author: ['Arthur Caetano', 'Yunhao Luo', 'Adwait Sharma', 'Misha Sra']
 description: "Model of Spatial User Preferences for Adaptive Grasp Interfaces"
 draft: false
 type: "post"
-tags: ["grasp", "adaptive interfaces", "user preference", 'toolkit', "xr", "uist"]
+tags: ["grasp", "adaptive", "user preference", 'toolkit', "xr", "uist"]
 categories: ["Conference Paper"]
 translationKey: 'media'
 ---
