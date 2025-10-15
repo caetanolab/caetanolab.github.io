@@ -17,4 +17,30 @@ Traditionally, grasp interface design relies on elicitation studies informed by 
 
 To overcome this limitation, we present GraspR, a pairwise classifier that that predicts user preference between two alternative single-finger gestures. We can combine GraspR predictions to obtain a point cloud where each point encodes a preference score. For example, graspr understands that, when holding a can, users prefer to lightly extend their index finger instead of flexing the ring finger against the surface of the object. This information is useful to place interactive elements around the grasp in a layout that is both accessible and aligned with user preferences. Combining GraspR with object detection, we can turn objects into shortcuts to quickly switch apps and reduce downtime between physical tasks.
 
+[Publisher](https://doi.org/10.1145/3746059.3747744)
+
+[Code](https://github.com/HAL-UCSB/graspr)
+
+#### BibTex
+```latex
+@inproceedings{10.1145/3746059.3747744,
+    author = {Caetano, Arthur and Luo, Yunhao and Sharma, Adwait and Sra, Misha},
+    title = {GraspR: A Computational Model of Spatial User Preferences for Adaptive Grasp UI Design},
+    year = {2025},
+    isbn = {9798400720376},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3746059.3747744},
+    doi = {10.1145/3746059.3747744},
+    abstract = {Grasp User Interfaces (grasp UIs) enable dual-tasking in XR by allowing interaction with digital content while holding physical objects. However, current grasp UI design practices face a fundamental challenge: existing approaches either capture user preferences through labor-intensive elicitation studies that are difficult to scale, or rely on biomechanical models that overlook subjective factors. We introduce GraspR, the first computational model that predicts user preferences for single-finger microgestures in grasp UIs. Our data-driven approach combines the scalability of computational methods with human preference modeling, trained on 1,520 preferences collected via a two-alternative forced choice paradigm across eight participants and four frequently used grasp variations. We demonstrate GraspR’s effectiveness through a working prototype that dynamically adjusts interface layouts across four everyday tasks. We release both the dataset and code to support future research in adaptive grasp UIs.},
+    booktitle = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},
+    articleno = {96},
+    numpages = {16},
+    keywords = {grasp-based interfaces, user preference, adaptive interfaces, extended reality},
+    location = {
+    },
+    series = {UIST '25}
+}
+```
+
 <iframe  src='https://arxiv.org/pdf/2501.05434v2' width='100%' height='1200px'></iframe>
