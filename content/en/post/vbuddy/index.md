@@ -12,7 +12,8 @@ translationKey: 'media'
 ---
 **🏆People’s Choice Best Poster**
 
-<img src='cover.png' width='100%'\>
+<img src='cover.png' width='100%'>
+
 [Publisher](https://doi.org/10.1145/3586182.3616680)
 
 #### BibTex
