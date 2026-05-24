@@ -187,7 +187,7 @@ copyright = 'Copyright 2025 (c) Foxxi'
         ## Sans-serif font selection
         sans = 'inter'
         ## use typeface stored in local server (pleaase download font's uri first)
-        localHost = true
+        localHost = false
 
     ## Extended Metadata and  Social card configuration
     [params.socialCard]
