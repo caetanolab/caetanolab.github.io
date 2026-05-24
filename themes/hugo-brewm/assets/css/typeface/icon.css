@@ -4,7 +4,7 @@
     font-weight: normal;
     font-style: normal;
     font-display: block;
-    src: url(https://raw.githubusercontent.com/foxihd/hugo-brewm/main/static/css/fonts/base-ui.woff2) format('woff2');
+    src: url('fonts/base-ui.woff2') format('woff2');
 }
 
 /* fallback setting for websafefonts */
