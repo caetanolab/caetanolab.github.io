@@ -21,7 +21,7 @@
 
 [[main]]
   identifier = 'E-mail'
-  url        = 'mailto://caetano@ucsb.edu'
+  url        = 'mailto:caetano@ucsb.edu'
   pre        = 'email'
 
 [[main]]

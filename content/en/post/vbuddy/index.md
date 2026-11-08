@@ -10,13 +10,16 @@ tags: ['co-design', 'Conversational AI', 'accessibility', 'agents', 'uist']
 categories: ['Conference Poster']
 translationKey: 'media'
 ---
-**🏆People’s Choice Best Poster**
-
 <img src='cover.png' width='100%'>
 
 [Publisher](https://doi.org/10.1145/3586182.3616680)
 
-#### BibTex
+## Awards
+
+- People’s Choice Best Poster
+
+#### BibTeX
+
 ```latex
 @inproceedings{10.1145/3586182.3616680,
     author = {Taheri, Atieh and Bhardwaj, Purav and Caetano, Arthur and Zhong, Alice and Sra, Misha},

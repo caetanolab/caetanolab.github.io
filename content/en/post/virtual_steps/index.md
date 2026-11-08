@@ -14,12 +14,13 @@ translationKey: 'media'
 
 [Publisher](https://doi.org/10.1109/VR58804.2024.00040)
 
-#### BibTex
+#### BibTeX
+
 ```latex
 @INPROCEEDINGS{10494131,
   author={Taheri, Atieh and Caetano, Arthur and Sra, Misha},
-  booktitle={2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, 
-  title={Virtual Steps: The Experience of Walking for a Lifelong Wheelchair User in Virtual Reality}, 
+  booktitle={2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)},
+  title={Virtual Steps: The Experience of Walking for a Lifelong Wheelchair User in Virtual Reality},
   year={2024},
   volume={},
   number={},

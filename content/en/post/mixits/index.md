@@ -9,12 +9,12 @@ tags: ['prototyping', 'design patterns', 'toolkit', 'task support', 'mr', 'xr', 
 categories: ['Journal Paper']
 translationKey: 'media'
 ---
-
 <img src="canvas.png" width="100%">
 
 [Publisher](https://doi.org/10.3389/frvir.2025.1536393)
 
-#### BibTex
+#### BibTeX
+
 ```latex
 @ARTICLE{10.3389/frvir.2025.1536393,
     AUTHOR={Caetano, Arthur  and Aponte, Alejandro  and Sra, Misha },

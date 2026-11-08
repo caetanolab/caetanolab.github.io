@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://caetanolab.github.io/hugo-brewm'
+baseURL = 'https://caetanolab.github.io/'
 ## Site title
 title = 'Arthur Caetano | Portfolio'
 ## Use hugo-brewm theme

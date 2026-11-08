@@ -21,7 +21,8 @@ To overcome this limitation, we present GraspR, a pairwise classifier that that 
 
 [Code](https://github.com/HAL-UCSB/graspr)
 
-#### BibTex
+#### BibTeX
+
 ```latex
 @inproceedings{10.1145/3746059.3747744,
     author = {Caetano, Arthur and Luo, Yunhao and Sharma, Adwait and Sra, Misha},

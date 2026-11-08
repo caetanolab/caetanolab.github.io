@@ -14,12 +14,13 @@ translationKey: 'media'
 
 [Publisher](https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00095)
 
-#### BibTex
+#### BibTeX
+
 ```latex
 @INPROCEEDINGS{10765325,
   author={Sariya, Aman and Huard, Andrew and Jain, Ishan and Caetano, Arthur and Höllerer, Tobias and Sra, Misha},
-  booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)}, 
-  title={Hand Grip Pressure Visualization for Task Assistance}, 
+  booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)},
+  title={Hand Grip Pressure Visualization for Task Assistance},
   year={2024},
   volume={},
   number={},

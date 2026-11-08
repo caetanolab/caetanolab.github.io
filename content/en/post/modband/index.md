@@ -9,10 +9,10 @@ tags: ['sensing', 'toolkit', 'task support', 'uist']
 categories: ['Conference Poster']
 translationKey: 'media'
 ---
-
 [Publisher](https://doi.org/10.1145/3586182.3616682)
 
-#### BibTex
+#### BibTeX
+
 ```latex
 @inproceedings{10.1145/3586182.3616682,
     author = {Nargund, Avinash Ajit and Aponte, Alejandro and Caetano, Arthur and Sra, Misha},
@@ -32,4 +32,5 @@ translationKey: 'media'
     series = {UIST '23 Adjunct}
 }
 ```
+
 <iframe  src='https://web.archive.org/web/20231031214257id_/https://dl.acm.org/doi/pdf/10.1145/3586182.3616682' width='100%' height='1200px'></iframe>
