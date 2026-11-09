@@ -10,7 +10,7 @@ type: "post"
 tags: ["XR", "storytelling", "video generation", "UIST"]
 categories: ["Conference Demo"]
 ---
-<iframe src="https://drive.google.com/file/d/1MBKntE9qDmHFM1CP_JIoA5qVfPbqUf8N/preview" width="640" height="480" title="TurnReel demo video" allow="autoplay" allowfullscreen></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src="https://drive.google.com/file/d/1MBKntE9qDmHFM1CP_JIoA5qVfPbqUf8N/preview" width="640" height="480" title="TurnReel demo video" allow="autoplay" allowfullscreen></iframe>
 
 TurnReel combines extended reality and video generation models to explore storytelling in the physical spaces where stories take place. It was presented in the demos track at ACM UIST 2026.
 

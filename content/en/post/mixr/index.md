@@ -12,6 +12,10 @@ categories: ["Conference Demo"]
 ---
 {{< figure type="full" src="cover.png" alt="Two augmented reality views show a hand positioning orange sunglasses on a mug and the combined model with rotation controls." caption="Two views from the DIS 2026 demo show a participant positioning virtual sunglasses on a mug, followed by the combined design with rotation controls." >}}
 
+<iframe class="video-embed" style="--video-aspect: 1 / 1" src="https://drive.google.com/file/d/1er8aiiPtyJIxPQpuXulHqBxzcFlf2y8p/preview" title="MiXR demo video" width="360" height="360" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe class="video-embed" src="https://drive.google.com/file/d/1SwZOpnLqYuXOu8mmXBz9ypSSOwzqSdhK/preview" title="MiXR additional demo video" width="640" height="360" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 MiXR lets people build new 3D designs from objects around them. In augmented reality, users paint over the parts they want to keep, then move, rotate, and combine those pieces in place. Generative AI refines the arrangement into a unified 3D model. The user controls the shape and placement of the pieces while the system handles the refinement.
 
 [DIS 2026 demo paper](https://dl.acm.org/doi/full/10.1145/3802974.3808035)
@@ -32,5 +36,3 @@ MiXR lets people build new 3D designs from objects around them. In augmented rea
     url = {https://doi.org/10.1145/3802974.3808035}
 }
 ```
-
-<iframe src="https://arxiv.org/pdf/2605.09620" title="MiXR research preprint PDF" width="100%" height="1200" loading="lazy"></iframe>

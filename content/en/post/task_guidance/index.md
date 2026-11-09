@@ -23,10 +23,10 @@ Brewing a cup of coffee is a simple task, but it has features found in more comp
 - Timer to keep track of cooking times while users take care of another step
 - Video instructions pulled from online repositories.
 
-<iframe src="https://drive.google.com/file/d/17w0ext7tFBnbyjo4SBQ7hj5IJOylIois/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src="https://drive.google.com/file/d/17w0ext7tFBnbyjo4SBQ7hj5IJOylIois/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## XR Hand Guidance
 
 Physical tasks are inherently hands-on. This prototype demonstrates hand trajectory and pose guidance, which serves as a key building block for other physical task scenarios.
 
-<iframe src="https://drive.google.com/file/d/1IoTYq7ZQSDdQ5GWgC7ciZOo0zrhh8hxm/preview?t=10s" width="640" height="480" allow="autoplay"></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src="https://drive.google.com/file/d/1IoTYq7ZQSDdQ5GWgC7ciZOo0zrhh8hxm/preview?t=10s" width="640" height="480" allow="autoplay"></iframe>

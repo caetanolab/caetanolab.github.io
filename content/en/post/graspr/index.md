@@ -9,7 +9,7 @@ tags: ["grasp", "adaptive", "user preference", 'toolkit', "xr", "uist"]
 categories: ["Conference Paper"]
 translationKey: 'media'
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5khyDJbCbAE?si=Vok_UlfCfxOkv6oX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/5khyDJbCbAE?si=Vok_UlfCfxOkv6oX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 XR promises to blend physical and virtual affordances, but current systems often require users to put objects aside, grab controllers, or make midair gestures with empty hands. This creates friction when using XR to support physical tasks. As an alternative, Grasp Interfaces let users interact through gestures and UI elements using the same hand that holds a physical object.
 

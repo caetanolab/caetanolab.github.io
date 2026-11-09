@@ -10,9 +10,9 @@ tags: ['outdoors', 'learning', 'ar', 'dis']
 categories: ['Conference Paper']
 translationKey: 'media'
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fRGuXaSnjOw?si=-e0w_exL46I-FRst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/fRGuXaSnjOw?si=-e0w_exL46I-FRst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1jfJMDfysq7Hda5I1t75wwnkcdpm72b-y/preview" allow="autoplay"></iframe>
+<iframe class="video-embed" width="560" height="315" src="https://drive.google.com/file/d/1jfJMDfysq7Hda5I1t75wwnkcdpm72b-y/preview" allow="autoplay"></iframe>
 
 [Publisher](https://doi.org/10.1145/3563657.3596090)
 

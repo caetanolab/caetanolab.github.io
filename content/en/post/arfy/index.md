@@ -10,7 +10,7 @@ tags: ["adaptive", "ar", 'toolkit', "uist"]
 categories: ["Conference Poster"]
 translationKey: 'media'
 ---
-<iframe src="https://drive.google.com/file/d/1LZ3mDvY4UoNk3kpmBDiu15lilJ2cKhsi/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src="https://drive.google.com/file/d/1LZ3mDvY4UoNk3kpmBDiu15lilJ2cKhsi/preview" width="640" height="480" allow="autoplay"></iframe>
 
 [Publisher](https://doi.org/10.1145/3526114.3558697)
 

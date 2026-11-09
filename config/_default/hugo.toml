@@ -159,7 +159,7 @@ copyright = 'Copyright 2025 (c) Foxxi'
         ## Enable text justification
         justifying = true
         ## Disable paragraph indentation
-        noIndent = false
+        noIndent = true
         ## Show colophon section (including QR code)
         colophon = false
         ## disable redaction history

@@ -10,9 +10,9 @@ tags: ["grasp", "simulation", 'toolkit', "xr", "dis"]
 categories: ["Conference Paper"]
 translationKey: 'media'
 ---
-<iframe src="https://drive.google.com/file/d/1ZclIv0KvCWgFyMUqil7GbqhBYhx1my5-/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src="https://drive.google.com/file/d/1ZclIv0KvCWgFyMUqil7GbqhBYhx1my5-/preview" width="640" height="480" allow="autoplay"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1S2yTVMEwMmyItxkeZ1-iuqXWfcr4aWos/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src="https://drive.google.com/file/d/1S2yTVMEwMmyItxkeZ1-iuqXWfcr4aWos/preview" width="640" height="480" allow="autoplay"></iframe>
 
 [Publisher](https://doi.org/10.1145/3643834.3661567)
 

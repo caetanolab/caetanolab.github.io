@@ -33,4 +33,4 @@ Artificial Leviathan tests whether agents driven by large language models will f
 }
 ```
 
-<iframe src="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1700712/pdf" title="Artificial Leviathan journal article PDF" width="100%" height="1200" loading="lazy"></iframe>
+<iframe src="https://arxiv.org/pdf/2406.14373" title="Artificial Leviathan preprint PDF" width="100%" height="1200" loading="lazy"></iframe>

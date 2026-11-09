@@ -26,3 +26,16 @@
     --bg-dark-more: #000;
     --ac-dark-more: var(--ac-dark);
 }
+
+#main-article #content > :is(h1, h2, h3, h4, h5, h6, ul, ol, dl) {
+    max-width: var(--golden-ratio);
+}
+
+#main-article #content > .video-embed {
+    display: block;
+    width: var(--golden-ratio);
+    height: auto;
+    aspect-ratio: var(--video-aspect, 16 / 9);
+    margin-block: 1rem;
+    border: 0;
+}

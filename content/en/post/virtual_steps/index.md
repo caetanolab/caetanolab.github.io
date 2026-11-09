@@ -10,7 +10,7 @@ tags: ['co-design', 'vr', 'accessibility', 'IEEE VR']
 categories: ['Conference Paper']
 translationKey: 'media'
 ---
-<iframe src='https://drive.google.com/file/d/1k3TgnGpRe4FeWI4OMFqvSp7Sh-qkAL-r/preview' width='640' height='480' allow='autoplay'></iframe>
+<iframe class="video-embed" style="--video-aspect: 4 / 3" src='https://drive.google.com/file/d/1k3TgnGpRe4FeWI4OMFqvSp7Sh-qkAL-r/preview' width='640' height='480' allow='autoplay'></iframe>
 
 [Publisher](https://doi.org/10.1109/VR58804.2024.00040)
 

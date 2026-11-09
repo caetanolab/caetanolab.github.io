@@ -17,7 +17,7 @@ translationKey: 'media'
 
 ![Visual summary of XARP, a Python toolkit for human and AI agent interaction in XR](xarp_summary.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q6Yi6uUa7Yw?si=hKIKC0fnNz78VGvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/q6Yi6uUa7Yw?si=hKIKC0fnNz78VGvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 XARP is an open-source Python toolkit for building extended reality applications with AI agents. It brings XR and AI development into the same Python workflow and exposes XR capabilities to agents through the Model Context Protocol (MCP).
 
