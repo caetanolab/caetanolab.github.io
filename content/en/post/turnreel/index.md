@@ -2,13 +2,19 @@
 title: "TurnReel"
 date: 2026-11-03
 author: ['Arthur Caetano', 'Yunhao Luo', 'Irene Li', 'Avinash Ajit Nargund', 'Hiroto Saito', 'Kuniharu Sakurada', 'Masahiko Inami', 'Misha Sra']
+cover: 'cover.png'
+coverAlt: 'An orange character emerges from a handheld game console beside a potted plant.'
 description: "In-Situ Storytelling with Extended Reality and Video Generation Models"
 draft: false
 type: "post"
 tags: ["XR", "storytelling", "video generation", "UIST"]
 categories: ["Conference Demo"]
 ---
+<iframe src="https://drive.google.com/file/d/1MBKntE9qDmHFM1CP_JIoA5qVfPbqUf8N/preview" width="640" height="480" title="TurnReel demo video" allow="autoplay" allowfullscreen></iframe>
+
 TurnReel combines extended reality and video generation models to explore storytelling in the physical spaces where stories take place. It was presented in the demos track at ACM UIST 2026.
+
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1MBKntE9qDmHFM1CP_JIoA5qVfPbqUf8N/view?usp=sharing)
 
 [ACM UIST 2026 demo paper](https://doi.org/10.1145/3830397.3842481)
 
