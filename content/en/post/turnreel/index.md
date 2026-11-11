@@ -14,8 +14,6 @@ categories: ["Conference Demo"]
 
 TurnReel combines extended reality and video generation models to explore storytelling in the physical spaces where stories take place. It was presented in the demos track at ACM UIST 2026.
 
-[Watch the demo on Google Drive](https://drive.google.com/file/d/1MBKntE9qDmHFM1CP_JIoA5qVfPbqUf8N/view?usp=sharing)
-
 [ACM UIST 2026 demo paper](https://doi.org/10.1145/3830397.3842481)
 
 [UIST 2026 demo session](https://programs.sigchi.org/uist/2026/program/session/278204)
